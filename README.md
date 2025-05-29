@@ -1,5 +1,3 @@
-# Finanace-gradio-bot
-
 #  Multimodal Gradio Bot
 
 This is a **multimodal Gradio chatbot** designed to help users with financial queries. It supports **text, file, and image inputs**, and provides intelligent financial insights powered by Google's Gemini API.
